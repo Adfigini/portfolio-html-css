@@ -40,10 +40,16 @@ portfolio-html-css
 
 ## 🔮 Próximas mejoras
 
-- Diseño responsive
-- Sección de habilidades
-- Cards de proyectos
 - Formulario de contacto
+
+---
+
+---
+
+## ✨ Características
+- Diseño responsivo
+- Alternancia entre modo oscuro y claro
+- HTML y CSS limpios
 
 ---
 
