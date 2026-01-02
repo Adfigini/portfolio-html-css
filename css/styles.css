@@ -127,3 +127,38 @@ body {
   color: #555;
   margin-bottom: 0.5rem;
 }
+/* Contact */
+.contact {
+  text-align: center;
+}
+
+.contact p {
+  margin: 0.8rem 0 1.2rem;
+  color: #555;
+}
+
+.contact-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.contact-links a {
+  text-decoration: none;
+  color: white;
+  background: #333;
+  padding: 0.7rem 1.2rem;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+.contact-links a:hover {
+  background: #000;
+}
+
+@media (min-width: 768px) {
+  .contact-links {
+    flex-direction: row;
+    justify-content: center;
+  }
+}
