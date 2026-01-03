@@ -238,10 +238,32 @@ body.dark .project-tags span {
 /* =========================
    FOOTER
 ========================= */
-footer {
+.footer {
   background: var(--section);
+  padding: 2rem 1.5rem;
   text-align: center;
-  padding: 1rem;
+  border-radius: 12px 12px 0 0;
+  margin-top: 3rem;
+}
+
+.footer-links {
+  margin-top: 0.5rem;
+}
+
+.footer-links a {
+  margin: 0 0.5rem;
+  text-decoration: none;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.footer p {
+  font-size: 0.9rem;
+  opacity: 0.7;
 }
 
 /* =========================
