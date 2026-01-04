@@ -1,59 +1,85 @@
-# Portfolio HTML & CSS
+# 👋 Alberto Figini
 
-Portfolio personal desarrollado con **HTML, CSS y JavaScript**, pensado para mostrar proyectos, habilidades y práctica en desarrollo web.
-
-🌐 **Sitio online:**  
-👉 https://adfigini.github.io/portfolio-html-css/
+💻 Desarrollador Frontend en formación  
+🧠 Aprendizaje constante · código claro · diseño funcional  
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 🎯 Propósito de este repositorio
 
-- HTML5
-- CSS3
-- JavaScript (básico)
-- Git & GitHub
-- GitHub Pages
+Este proyecto forma parte de mi **camino como desarrollador frontend junior**.  
+No es un producto final cerrado, sino una **base sólida y evolutiva** donde aplico:
 
----
+- Fundamentos reales de **HTML y CSS**
+- Diseño **responsive** y mobile-first
+- Organización y mantenimiento del código
+- Buenas prácticas con **Git y GitHub**
 
-## 📂 Estructura del proyecto
-
-portfolio-html-css
-├── index.html
-├── css
-│ └── styles.css
-└── js
-└── main.js
-
+La idea es mostrar **cómo trabajo, cómo pienso y cómo progreso**.
 
 ---
 
-## 🚀 Objetivo del proyecto
+## 🧩 Tecnologías utilizadas
 
-- Practicar fundamentos de desarrollo web
-- Aprender a usar Git y GitHub
-- Crear un portfolio personal liviano y funcional
-- Publicar un sitio usando GitHub Pages
-
----
-
-## 🔮 Próximas mejoras
-
-- Formulario de contacto
+- **HTML5** — estructura semántica  
+- **CSS3** — layout, estilos y modo oscuro  
+- **Git & GitHub** — control de versiones  
+- **GitHub Pages** — despliegue del proyecto  
 
 ---
 
+## 📂 Proyecto
+
+### 🌐 Portfolio HTML & CSS
+
+Portfolio personal desarrollado desde cero, enfocado en claridad visual y simplicidad técnica.
+
+**Incluye:**
+- Diseño limpio y profesional
+- Modo claro / oscuro
+- Layout responsive
+- Estructura escalable para futuras mejoras
+
+**Repositorio**
+
+https://github.com/Adfigini/portfolio-html-css
+
+**Demo online**
+
+https://adfigini.github.io/portfolio-html-css/
+
 ---
 
-## ✨ Características
-- Diseño responsivo
-- Alternancia entre modo oscuro y claro
-- HTML y CSS limpios
+## 🎨 Identidad visual
+
+Este proyecto sigue una identidad coherente pensada para uso profesional:
+
+- **Paleta:** Black Tech Orange  
+  Negro como base + naranja como acento técnico
+- **Estilo:** minimalista, sobrio y funcional  
+- **Tipografías (conceptuales):**
+  - Inter → interfaz y texto
+  - JetBrains Mono → código
+
+La misma línea visual se replica en mi portfolio, GitHub y redes profesionales.
 
 ---
 
-## 👤 Autor
+## 🚧 En evolución
 
-**Alberto Figini**  
-GitHub: https://github.com/Adfigini
+Próximos pasos planificados:
+
+- Incorporar **JavaScript** para interactividad
+- Mejorar accesibilidad (a11y)
+- Optimizar detalles visuales y performance
+- Sumar nuevos proyectos al portfolio
+
+---
+
+## 🤝 Contacto
+
+GitHub: **@Adfigini**
+
+---
+
+Este repositorio evoluciona a la par de mis habilidades como desarrollador.
