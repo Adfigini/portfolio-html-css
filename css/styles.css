@@ -20,6 +20,15 @@ body.dark {
   --card: #242424;
 }
 
+#toggle-theme {
+  background: var(--accent);
+  color: var(--bg);
+  border: none;
+  border-radius: 8px;
+  padding: 0.4rem 0.8rem;
+  cursor: pointer;
+}
+
 /* =========================
    RESET / BASE
 ========================= */
@@ -188,11 +197,11 @@ body.dark .project-tags span {
   padding: 0.5rem 1rem;
   border-radius: 6px;
   font-size: 0.9rem;
-  transition: transform 0.2s ease, opacity 0.2s ease;
+  transition: background 0.2s ease, transform 0.2s ease;
 }
 
 .project-links a:hover {
-  opacity: 0.85;
+  opacity: 0.9;
   transform: translateY(-2px);
 }
 
@@ -317,6 +326,16 @@ body.dark .project-tags span {
     opacity: 1;
     transform: translateY(0);
   }
+ 
+/* =========================
+   VISIBLE FOCUS 
+========================= */
+ 
+  a:focus,
+button:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
 }
 
 
