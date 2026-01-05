@@ -83,3 +83,95 @@ GitHub: **@Adfigini**
 ---
 
 Este repositorio evoluciona a la par de mis habilidades como desarrollador.
+
+---------------------------------------------------------------------------------------
+
+# 👋 Alberto Figini
+
+💻 Frontend Developer in Training
+🧠 Continuous Learning · Clean Code · Functional Design
+
+---
+
+## 🎯 Purpose of this Repository
+
+This project is part of my **journey as a junior frontend developer**.
+
+It's not a finished product, but a **solid and evolving foundation** where I apply:
+
+- Real fundamentals of **HTML and CSS**
+- **Responsive** and mobile-first design
+- Code organization and maintenance
+- Best practices with **Git and GitHub**
+
+The idea is to show **how I work, how I think, and how I progress**.
+
+---
+
+## 🧩 Technologies Used
+
+- **HTML5** — semantic structure
+- **CSS3** — layout, styles, and dark mode
+- **Git & GitHub** — version control
+- **GitHub Pages** — project deployment
+
+---
+
+## 📂 Project
+
+### 🌐 HTML & CSS Portfolio
+
+Personal portfolio developed from scratch, focused on visual clarity and technical simplicity.
+
+**Includes:**
+- Clean and professional design
+- Light/dark mode
+- Responsive layout
+- Scalable structure for future improvements
+
+**Repository**
+
+https://github.com/Adfigini/portfolio-html-css
+
+**Online Demo**
+
+https://adfigini.github.io/portfolio-html-css/
+
+---
+
+## 🎨 Visual Identity
+
+This project follows a consistent identity designed for professional use:
+
+- **Palette:** Black Tech Orange
+
+Black as a base + orange as a technical accent
+- **Style:** Minimalist, understated, and functional
+- **Conceptual Typography:**
+
+- Inter → interface and text
+
+- JetBrains Mono → code
+
+The same visual style is replicated in my portfolio, GitHub, and professional networks.
+
+---
+
+## 🚧 In progress
+
+Next planned steps:
+
+- Incorporate **JavaScript** for interactivity
+- Improve accessibility (a11y)
+- Optimize visual details and performance
+- Add new projects to the portfolio
+
+---
+
+## 🤝 Contact
+
+GitHub: **@Adfigini**
+
+---
+
+This repository evolves alongside my skills as a developer.
